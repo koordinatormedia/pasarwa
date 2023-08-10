@@ -1,0 +1,444 @@
+[2021-03-27 14:12:35]
+null
+
+[2021-03-27 14:13:09]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hai"},"type":"chat"}
+
+[2021-03-27 14:13:09]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:13:13]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 14:14:02]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 14:14:03]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hai"},"type":"chat"}
+
+[2021-03-27 14:14:04]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:14:06]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hallo"},"type":"chat"}
+
+[2021-03-27 14:14:07]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:14:56]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 14:15:28]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:27:17]
+{"fromMe":false,"data":{"from":"6289611274798@c.us","body":"Siap mas"},"type":"chat"}
+
+[2021-03-27 15:52:52]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:53:57]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:55:20]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:55:36]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:56:38]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:57:12]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 15:57:18]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hai"},"type":"chat"}
+
+[2021-03-27 15:57:18]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:58:47]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 16:00:56]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 16:01:52]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 16:01:54]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 16:03:20]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"f"},"type":"chat"}
+
+[2022-04-11 15:59:44]
+{"from":"6282335153239@c.us","message":"tes"}
+
+[2022-04-11 15:59:57]
+{"from":"6282335153239@c.us","message":"Lagi"}
+
+[2022-04-11 16:00:42]
+{"from":"6282335153239@c.us","message":"Cek"}
+
+[2022-04-12 09:36:05]
+{"from":"6282335153239@c.us","message":"Tes"}
+
+[2022-04-12 09:36:14]
+{"from":"6282335153239@c.us","message":"Lagi"}
+
+[2022-04-12 11:03:05]
+{"from":"6282335153239@c.us","message":"Ok"}
+
+[2022-04-12 11:03:47]
+{"from":"6282335153239@c.us","message":"Hai"}
+
+[2022-04-25 09:44:58]
+{"from":"6285745782349@c.us","message":"Siap"}
+
+[2022-04-25 09:54:37]
+{"from":"6285257876769@c.us","message":"Siap, maturnuwun\ud83d\ude4f"}
+
+[2022-04-25 10:01:55]
+{"from":"6285102452133@c.us","message":"Terimakasih infonya"}
+
+[2022-04-25 10:02:39]
+{"from":"6287765476781@c.us","message":"Terima kasih"}
+
+[2022-04-25 10:04:02]
+{"from":"6285257675120@c.us","message":"Aamiin.... \ud83e\udd32"}
+
+[2022-04-25 10:04:50]
+{"from":"6281336067513@c.us","message":"Siap"}
+
+[2022-04-25 10:07:13]
+{"from":"6281336769882@c.us","message":"\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"}
+
+[2022-04-25 10:07:17]
+{"from":"6285231193000@c.us","message":"Siap"}
+
+[2022-04-25 10:09:39]
+{"from":"6285234980729@c.us","message":"No.siapa ini?"}
+
+[2022-04-25 10:10:03]
+{"from":"6282335153239@c.us","message":"tes"}
+
+[2022-04-25 10:10:37]
+{"from":"6285236317091@c.us","message":"tes"}
+
+[2022-04-25 10:11:11]
+{"from":"6282234652358@c.us","message":"Apa maksudnya"}
+
+[2022-04-25 10:11:28]
+{"from":"6282334154301@c.us","message":"Sinten?"}
+
+[2022-04-25 10:11:50]
+{"from":"6282335153239@c.us","message":"Ok"}
+
+[2022-04-25 10:11:57]
+{"from":"6285236317091@c.us","message":"Ok"}
+
+[2022-04-25 10:13:08]
+{"from":"6281310162919@c.us","message":"Mksh infonya"}
+
+[2022-04-25 10:13:19]
+{"from":"6285236317091@c.us","message":"Ok"}
+
+[2022-04-25 10:13:25]
+{"from":"6282335153239@c.us","message":"Ok"}
+
+[2022-04-25 10:15:36]
+{"from":"6285334251569@c.us","message":"Sonten nggih"}
+
+[2022-04-25 10:15:38]
+{"from":"6281249398198@c.us","message":"Sopo iki"}
+
+[2022-04-25 10:17:29]
+{"from":"6282323579125@c.us","message":"\ud83d\ude4f\ud83c\udffb"}
+
+[2022-04-25 10:18:19]
+{"from":"6285259032211@c.us","message":"Njih.maturnuwun"}
+
+[2022-04-25 10:18:25]
+{"from":"6285259032211@c.us","message":"Niki sinten?"}
+
+[2022-04-25 10:18:39]
+{"from":"6285334251569@c.us","message":"Srmoga tdk terjadi"}
+
+[2022-04-25 10:19:25]
+{"from":"6285233123793@c.us","message":"Ini sinten nggeh?"}
+
+[2022-04-25 10:20:15]
+{"from":"628124984002@c.us","message":"Mhn maaf, ini no.wa siapa?"}
+
+[2022-04-25 10:20:30]
+{"from":"6285233262403@c.us","message":"\ud83d\ude4f"}
+
+[2022-04-25 10:20:46]
+{"from":"6282331444949@c.us","message":"Ya"}
+
+[2022-04-25 10:21:39]
+{"from":"6285109755444@c.us","message":"Inggeh siap"}
+
+[2022-04-25 10:22:34]
+{"from":"6285101958027@c.us","message":"Makasih infonya"}
+
+[2022-04-25 10:22:57]
+{"from":"628123468164@c.us","message":"Ini siapa yaa"}
+
+[2022-04-25 10:23:16]
+{"from":"6282141632849@c.us","message":"Siap... \ud83d\ude4f\ud83c\udfff"}
+
+[2022-04-25 10:23:25]
+{"from":"6282141632849@c.us","message":"Maaf dgn siapa nggij \ud83d\ude4f\ud83c\udfff\ud83d\ude4f\ud83c\udfff"}
+
+[2022-04-25 10:25:32]
+{"from":"6285231542494@c.us","message":"Enjih siap..\nSiapa ini ya"}
+
+[2022-04-25 10:26:36]
+{"from":"6282143266898@c.us","message":"Dg siapa nggeh"}
+
+[2022-04-25 10:27:07]
+{"from":"6285859767664@c.us","message":"Maaf ini siapa"}
+
+[2022-04-25 10:27:39]
+{"from":"6285746518744@c.us","message":"Maaf ini sapa"}
+
+[2022-04-25 10:31:18]
+{"from":"6281249495454@c.us","message":"Siiapp"}
+
+[2022-04-25 10:31:57]
+{"from":"6282143131789@c.us","message":"Terima kasih banyak infonya.."}
+
+[2022-04-25 10:32:13]
+{"from":"6282143131789@c.us","message":"Ini dari siapa nggih"}
+
+[2022-04-25 10:33:40]
+{"from":"6281259252152@c.us","message":"Siap"}
+
+[2022-04-25 10:34:18]
+{"from":"628124966131@c.us","message":"Siap..."}
+
+[2022-04-25 10:34:44]
+{"from":"6281336411777@c.us","message":"Ini sapa?"}
+
+[2022-04-25 10:35:29]
+{"from":"6281291453111@c.us","message":"Siap"}
+
+[2022-04-25 10:35:34]
+{"from":"6281291453111@c.us","message":"Ini siapa ya"}
+
+[2022-04-25 10:36:36]
+{"from":"6285335644412@c.us","message":"\ud83d\ude4f"}
+
+[2022-04-25 10:37:33]
+{"from":"6281249441967@c.us","message":"Ini siapa"}
+
+[2022-04-25 10:37:36]
+{"from":"6282139518306@c.us","message":"Sopo iki"}
+
+[2022-04-25 10:38:09]
+{"from":"628124988821@c.us","message":"Maaf ini no sp ya ??"}
+
+[2022-04-25 10:39:20]
+{"from":"6282143411629@c.us","message":"Nggih \ud83d\ude4f"}
+
+[2022-04-25 10:39:43]
+{"from":"6282143449040@c.us","message":"Terima kasih"}
+
+[2022-04-25 10:39:48]
+{"from":"6285655850700@c.us","message":"Sinten?.."}
+
+[2022-04-25 10:42:22]
+{"from":"6281359652061@c.us","message":"\ud83d\udc4d"}
+
+[2022-04-25 10:43:20]
+{"from":"6281348790667@c.us","message":"Maturnuwun informasinya\ud83d\ude4fNgapunten niki sinten njih\ud83d\ude4f"}
+
+[2022-04-25 10:43:37]
+{"from":"6285236284455@c.us","message":"Siap"}
+
+[2022-04-25 10:43:50]
+{"from":"6282332141546@c.us","message":"Siap"}
+
+[2022-04-25 10:43:58]
+{"from":"628123498783@c.us","message":"Maaf...siapa ya"}
+
+[2022-04-25 10:44:25]
+{"from":"6281249349020@c.us","message":"ini siapa??"}
+
+[2022-04-25 10:45:54]
+{"from":"6285231887215@c.us","message":"Maaf niki nomorx sinten nggeh?"}
+
+[2022-04-25 10:45:55]
+{"from":"6285107430717@c.us","message":"Matur nuwon info nya\ud83d\ude4f"}
+
+[2022-04-25 10:46:12]
+{"from":"6285236386454@c.us","message":"Maaf ini nomornya sapa ?"}
+
+[2022-04-25 10:46:15]
+{"from":"6282331009199@c.us","message":"No siapa ini"}
+
+[2022-04-25 10:46:36]
+{"from":"6281805676687@c.us","message":"??"}
+
+[2022-04-25 10:47:18]
+{"from":"6282132173211@c.us","message":"Mf siapa"}
+
+[2022-04-25 10:47:34]
+{"from":"6281331911592@c.us","message":"Sinten niki"}
+
+[2022-04-25 10:50:01]
+{"from":"6281336711881@c.us","message":"\ud83d\udc4d\ud83d\udc4d"}
+
+[2022-04-25 10:51:18]
+{"from":"6282334639559@c.us","message":"Sinten nggeh"}
+
+[2022-04-25 10:52:05]
+{"from":"628124911330@c.us","message":"Terima kasih infonya"}
+
+[2022-04-25 10:52:44]
+{"from":"6281332185668@c.us","message":"Ada yg perludi bantukah"}
+
+[2022-04-25 10:53:35]
+{"from":"6281230489585@c.us","message":"Niki sinten nggih?"}
+
+[2022-04-25 10:53:40]
+{"from":"6285101278783@c.us","message":"Maaf ini siapa nggeh"}
+
+[2022-04-25 10:54:04]
+{"from":"6281233103530@c.us","message":"Mmtrnwn ..sinten nggih"}
+
+[2022-04-25 10:54:24]
+{"from":"6281235124412@c.us","message":"Ini nomer siapa nggih \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"}
+
+[2022-04-25 10:54:58]
+{"from":"6282336375879@c.us","message":"Siap"}
+
+[2022-04-25 10:56:41]
+{"from":"6285311832971@c.us","message":"Maturnuwun informasinya\ud83d\ude4f"}
+
+[2022-04-25 10:57:50]
+{"from":"6281331700428@c.us","message":"Siap\ud83d\ude4f"}
+
+[2022-04-25 10:58:08]
+{"from":"6282140815530@c.us","message":"\ud83d\ude4f"}
+
+[2022-04-25 10:59:25]
+{"from":"6285232038788@c.us","message":"\ud83d\ude4f"}
+
+[2022-04-25 11:01:39]
+{"from":"6285100853587@c.us","message":"\ud83d\ude4f\ud83c\udffb"}
+
+[2022-04-25 11:01:57]
+{"from":"6282330300666@c.us","message":"No siapa ini nggih"}
+
+[2022-04-25 11:04:58]
+{"from":"6285258572050@c.us","message":"Ada yg WA mama"}
+
+[2022-04-25 11:05:05]
+{"from":"6281217985775@c.us","message":"Terimakasih informasinya Aamiin\ud83e\udd32\ud83e\udd32\ud83e\udd32"}
+
+[2022-04-25 11:07:30]
+{"from":"6281216490290@c.us","message":"Nggih maturnuwun ini siapa?"}
+
+[2022-04-25 11:07:54]
+{"from":"6285232397905@c.us","message":"Ini siapa?"}
+
+[2022-04-25 11:08:15]
+{"from":"6282140272408@c.us","message":"Nggih maaf ini siapa nggih"}
+
+[2022-04-25 11:09:57]
+{"from":"6282245684792@c.us","message":"\ud83d\udc4d\ud83d\udc4d"}
+
+[2022-04-25 11:10:12]
+{"from":"6281336250000@c.us","message":"Tidak Memperkenalkan Nama.\ndi Profil WA Juga Namanya Gak Jelas.\n\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f"}
+
+[2022-04-25 11:10:38]
+{"from":"6282143217782@c.us","message":"Siap.."}
+
+[2022-04-25 11:10:40]
+{"from":"6281217407117@c.us","message":"Maaf ini siapa ggih..\ud83d\ude4f"}
+
+[2022-04-25 11:10:40]
+{"from":"6282230771443@c.us","message":"mf.. ini no. siapa?"}
+
+[2022-04-25 11:10:54]
+{"from":"6285230758777@c.us","message":"Siapa"}
+
+[2022-04-25 11:11:16]
+{"from":"6281216391213@c.us","message":"Siapa ini?"}
+
+[2022-04-25 11:11:27]
+{"from":"6281330380577@c.us","message":"Ngapunten niki sinten"}
+
+[2022-04-25 11:14:24]
+{"from":"6282142102527@c.us","message":"Maaf ini nox siapa nggeh??\ud83d\ude4f\ud83c\udffb"}
+
+[2022-04-25 11:14:34]
+{"from":"6281216579121@c.us","message":"Ini siapa ya"}
+
+[2022-04-25 11:15:34]
+{"from":"6283853510631@c.us","message":"???"}
+
+[2022-04-25 11:16:22]
+{"from":"6282142495497@c.us","message":"Ok"}
+
+[2022-04-25 11:17:14]
+{"from":"6282143292846@c.us","message":"Trimakasih infonya bpk\/ ibu"}
+
+[2022-04-25 11:17:32]
+{"from":"6285746184554@c.us","message":"Maaf, siapa ya"}
+
+[2022-04-25 11:17:35]
+{"from":"6285203322280@c.us","message":"\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb"}
+
+[2022-04-25 11:17:46]
+{"from":"6281234651765@c.us","message":"Maaf ini siapa??"}
+
+[2022-04-25 11:17:50]
+{"from":"6282132494270@c.us","message":"Trimakasih... Maaf ini siapa ya?"}
+
+[2022-04-25 11:18:34]
+{"from":"6283847015103@c.us","message":"Waduhh"}
+
+[2022-04-25 11:19:39]
+{"from":"6285232041697@c.us","message":"\ud83d\ude4f"}
+
+[2022-04-25 11:22:23]
+{"from":"6282302116525@c.us","message":"\ud83d\ude4f"}
+
+[2022-04-25 11:23:09]
+{"from":"6285655920975@c.us","message":"niki sinten ngge"}
+
+[2022-04-25 11:25:52]
+{"from":"6282143110586@c.us","message":"Ini sinten nggeh ? \ud83d\ude4f"}
+
+[2022-04-25 11:27:22]
+{"from":"628123496424@c.us","message":"Siap \ud83d\ude4f\ud83d\ude4f"}
+
+[2022-04-25 11:29:32]
+{"from":"6285258538095@c.us","message":"Terimakasih infonya"}
+
+[2022-04-25 11:30:20]
+{"from":"6285259785393@c.us","message":"Siap pak"}
+
+[2022-04-25 11:34:05]
+{"from":"6285804112094@c.us","message":"??"}
+
+[2022-04-25 11:34:18]
+{"from":"6285258538095@c.us","message":"Maaf dg siapa ya?"}
+
+[2022-04-25 11:34:26]
+{"from":"6285258538095@c.us","message":"Saya sdh pensiun \ud83d\ude4f"}
+
+[2022-04-25 11:34:49]
+{"from":"628123467831@c.us","message":"Siapa yaaa????"}
+
+[2022-04-25 11:34:58]
+{"from":"628124912605@c.us","message":"Siapa nggeh"}
+
+[2022-04-25 11:39:56]
+{"from":"6281357445716@c.us","message":"\ud83d\ude4f\ud83d\ude4f"}
+
